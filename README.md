@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sia is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://sia.tech/
+Sia provides decentralized cloud storage built on a blockchain-based network, enabling developers to encrypt, encode, distribute, and retrieve data securely across independent storage providers. The platform offers 50 GB of free storage, SDKs for multiple languages, and a suite of tools for building resilient, privacy‑preserving applications. Sia’s open network ensures users retain control of encryption keys while leveraging global redundancy and cryptographic proofs for data integrity.
+
+**Areas:** Company · Decentralized Storage · Cloud Storage · Blockchain · Open Source · Developer Tools
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sia.tech/)
+- [Documentation](https://docs.sia.tech/)
+- [Getting started](https://devs.sia.storage/docs/quickstart)
+- [API reference](https://devs.sia.storage/docs/quickstart)
+- [Pricing](https://sia.tech/store-your-data)
+- [Support](https://sia.tech/support)
+- [Blog](https://sia.tech/blog)
+- [Terms of service](https://sia.tech/terms-of-service)
+- [Privacy policy](https://sia.tech/privacy-policy)
+- [GitHub](https://github.com/siafoundation)
+- [Status](https://status.sia.tech/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/sia-tech/](https://apis.io/providers/sia-tech/).
